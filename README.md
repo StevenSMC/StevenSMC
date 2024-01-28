@@ -1,12 +1,12 @@
 <img align="center" alt="coding" width="1000" 
   src="">
-  src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/">
+  src="https://i.gifer.com/EeQL.gif">
 
 
 <h1 align="center">Steven Cometa</h1>
 @@ -10,11 +10,12 @@
 
-<p align="left"> <img src="" /> </p>
+<p align="left"> <img src="https://web.facebook.com/photo/?fbid=3357779774533812&set=a.1375433016101841" /> </p>
 
 📖 I'm currently learning *Robotics 2🤖*
 
