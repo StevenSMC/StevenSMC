@@ -3,13 +3,13 @@
 <h1 align="center">Steven Cometa</h1>
 
 
-📖 I'm currently learning *Robotics 2🤖*
+
 ![giphy](https://github.com/StevenSMC/StevenSMC/assets/157485602/c82c5ace-6e19-41c3-a657-d1a217aa3bb9)
 
-
+📖 I'm currently learning *Robotics 2🤖*
 📨 How to reach me? *stevencometa11@gmail.com*
 
-   Hobbies? *Ilove to draw*
+ Hobbies? *Ilove to draw*
 - 🔭 I’m currently working on my skill does
 - 🌱 I’m currently learning Robotics 2
 - 🤔 I’m looking for help with my projects
