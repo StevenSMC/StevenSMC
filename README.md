@@ -1,7 +1,4 @@
 <h1 align="center">Steven Cometa</h1>
-@@ -10,11 +10,12 @@
-
-<p align="left"> <img src="https://web.facebook.com/photo/?fbid=3357779774533812&set=a.1375433016101841" /> </p>
 
 📖 I'm currently learning *Robotics 2🤖*
 
