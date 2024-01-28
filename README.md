@@ -1,6 +1,7 @@
 <h1 align="center">Steven Cometa</h1>
 
 📖 I'm currently learning *Robotics 2🤖*
+![Uploading EeQL.gif…]()
 
 📨 How to reach me? *stevencometa11@gmail.com*
 
