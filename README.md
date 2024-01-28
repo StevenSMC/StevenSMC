@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Steven Cometa</h1>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
 
-<!--
-**StevenSMC/StevenSMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **my skills.**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Robotics 2**
 
-- 🔭 I’m currently Studying in BSU Alangilan Campus
-- 🌱 I’m currently learning Robotics 2 
-- 👯 I’m looking to collaborate on my classmates
-- 🤔 I’m looking for help with my groupmates
-- 💬 Ask me about myself 
-- 📫 How to reach me: https://www.facebook.com/steven.cometa.7?mibextid=ZbWKwL
-- 😄 Pronouns: Venven
-- ⚡ Fun fact: None
--->
+- 🤝 I’m looking for help with **my projects**
+
+- 📫 How to reach me **https://www.facebook.com/steven.cometa.7?mibextid=ZbWKwL**
+
+- ⚡ Fun fact **i think none.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
