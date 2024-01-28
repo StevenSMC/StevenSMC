@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Steven Cometa</h1>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<img align="center" alt="coding" width="1000" 
+  src="">
+  src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/">
 
-- 🔭 I’m currently working on **my skills.**
 
-- 🌱 I’m currently learning **Robotics 2**
+<h1 align="center">Steven Cometa</h1>
+@@ -10,11 +10,12 @@
 
-- 🤝 I’m looking for help with **my projects**
+<p align="left"> <img src="" /> </p>
 
-- 📫 How to reach me **https://www.facebook.com/steven.cometa.7?mibextid=ZbWKwL**
+📖 I'm currently learning *Robotics 2🤖*
 
-- ⚡ Fun fact **i think none.**
+📨 How to reach me? *stevencometa11@gmail.com*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+   Hobbies? *Ilove to draw*
+- 🔭 I’m currently working on my skill does
+- 🌱 I’m currently learning Robotics 2
+- 🤔 I’m looking for help with my projects
+- 💬 Ask me about how collage life is
+- 📫 How to reach me: stevencometa11@gmail.com
+- ⚡ Fun fact: ...
