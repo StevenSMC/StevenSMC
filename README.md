@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1000" 
+<img align="center" alt="coding" width="400" 
   src="">
   src="https://i.gifer.com/EeQL.gif">
 
