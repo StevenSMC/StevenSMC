@@ -22,3 +22,25 @@
 - 💬 Ask me about how college life is....
 - 📫 How to reach me: stevencometa11@gmail.com
 - ⚡ Fun fact: i think I'm a potato 🥔
+
+
+</p>
+ <hr/>
+ 
+
+<br/>
+<hr/>
+
+<div align="center">
+  
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<br/>
+
+
