@@ -12,8 +12,9 @@
 
 📨 How to reach me? *stevencometa11@gmail.com*
 
--😇About me
-  *Ilove to draw and Watching Animes*
+-😇About me-
+
+  *I love to draw and Watching Animes*
   
 - 🔭 I’m currently working on my skill and improvements 
 - 🌱 I’m currently learning Robotics 2 
