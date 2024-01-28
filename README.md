@@ -1,8 +1,3 @@
-<img align="center" alt="coding" width="400" 
-  src="">
-  src="https://i.gifer.com/EeQL.gif">
-
-
 <h1 align="center">Steven Cometa</h1>
 @@ -10,11 +10,12 @@
 
