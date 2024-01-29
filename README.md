@@ -11,7 +11,6 @@
 
 📖 I'm currently learning *Robotics 2🤖*
 
-📨 How to reach me? *stevencometa11@gmail.com*
 
 -😇About me-
 
