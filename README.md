@@ -17,8 +17,7 @@
 
   *I love to draw and Watching Animes*
   
-- 🔭 I’m currently working on my skill and improvements 
-- 🌱 I’m currently learning Robotics 2 
+- 🔭 I’m currently working on my skill and improvements  
 - 🤔 I’m looking for help with my studies and activities 
 - 💬 Ask me about how college life is....
 - 📫 How to reach me: stevencometa11@gmail.com
