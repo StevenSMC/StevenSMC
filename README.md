@@ -1,5 +1,6 @@
 
-![Blue Textured Space Landscape Hello World Desktop Wallpaper](https://github.com/StevenSMC/StevenSMC/assets/157485602/453f9c1b-dfba-4f76-96b6-6e8aa2d62c1e)
+![you](https://github.com/StevenSMC/StevenSMC/assets/157485602/4554c942-982a-4c42-b6f7-5f28ef69d28b)
+
 <h1 align="center">Steven Cometa</h1>
 <h2 align="center">Mechatronics Engineering Student</h2>
 
