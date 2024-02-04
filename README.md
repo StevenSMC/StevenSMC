@@ -3,7 +3,8 @@
 <h1 align="center">Steven Cometa</h1>
 <h2 align="center">Mechatronics Engineering Student</h2>
 
-![coding-typing (1)](https://github.com/StevenSMC/StevenSMC/assets/157485602/da3636d3-163c-47f8-9cf7-e360553e7c0e)
+![shigure-ui-dance](https://github.com/StevenSMC/StevenSMC/assets/157485602/b5f97ec4-7aab-42f8-9894-bf2fb4ad7085)
+
 
 
 
