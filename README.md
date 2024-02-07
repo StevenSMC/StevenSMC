@@ -10,7 +10,7 @@
 
 
 
-📖 I'm currently learning *Robotics 2🤖*
+ 📖 I'm currently learning *Robotics 2🤖*
 
 
 -😇About me-
